@@ -1,5 +1,6 @@
 body {
    font-family: 'Lato', sans-serif;
+    background-color: lightblue;
 }
 
 #headfont{
@@ -20,5 +21,18 @@ a {
     text-decoration: none;
     color: darkseagreen;
 }
-}
 
+img {
+    float:none;
+    height: 150px;
+}
+.man {
+    float:right;
+    height:auto;
+}
+.imgskele {
+  height: 300px;
+    margin: auto;
+    display: block;
+
+}
