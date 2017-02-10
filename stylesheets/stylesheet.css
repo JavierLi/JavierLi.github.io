@@ -72,7 +72,7 @@ a {
     padding: 2rem 1rem; } }
 
 .project-name {
-  margin-top: 0;
+  margin-top: 10;
   margin-bottom: 0.1rem; }
 
 @media screen and (min-width: 64em) {
@@ -81,7 +81,7 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    font-size: 2.25rem; } }
+    font-size: 10.25rem; } }
 
 @media screen and (max-width: 42em) {
   .project-name {
