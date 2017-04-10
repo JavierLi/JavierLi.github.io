@@ -1,0 +1,60 @@
+header {
+	text-align: center;
+	font-size: 40px;
+
+}
+
+.Row
+{
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 10px;
+}
+.Column
+{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+#Grade {
+	text-align: center;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+#class {
+	text-align: center;
+	font-style: bold;
+	font-size: 25px;
+}
+
+li {
+	font-size: 17px;
+	text-indent: 50px;
+	font-style: italic;
+}
+
+div {
+   margin-bottom: 10px;
+}
+
+#img1 {
+	margin-right: 5px;
+	margin-left: 5px;
+	float: left;
+	vertical-align: middle;
+}
+
+#img2 {
+	margin-right: 5px;
+	margin-left: 5px;
+	float: right;
+}
+
+form {
+	margin-top: 17px;
+
+}
+
